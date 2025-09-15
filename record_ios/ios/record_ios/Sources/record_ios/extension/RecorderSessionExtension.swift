@@ -65,7 +65,7 @@ extension AudioRecordingDelegate {
     }
     
     if type == AVAudioSession.InterruptionType.began {
-      pause()
+      //pause()
     }
   }
 
